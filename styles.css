@@ -80,3 +80,10 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+
+.footer-mark {
+ text-decoration : none;
+ font-size : 1rem;
+ color : #fff;
+}
